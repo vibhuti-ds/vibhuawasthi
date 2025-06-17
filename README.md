@@ -1,35 +1,60 @@
-**👩‍💻 Vibhuti Awasthi | Data Scientist | ML Enthusiast**
-**“Turning raw data into real insights — one model at a time.”**
+# 👩‍💻 Vibhuti Awasthi
 
-Hi there! I’m Vibhuti Awasthi, a passionate Data Scientist with a strong foundation in statistical modeling, machine learning, and predictive analytics. I love working with real-world data to build intelligent solutions that drive decision-making and solve business problems.
+**Data Scientist | ML Enthusiast | Predictive Modeling**
 
-**🔍 What I Do**
-📊 Data Analysis & Feature Engineering
+🎯 Turning raw data into real insights — one model at a time.
 
-🤖 Machine Learning Algorithms (Regression, Tree Models, Clustering, etc.)
+---
 
-📈 Time Series Forecasting
+### 🔍 About Me
 
-🧠 Predictive Modeling for business use cases
+Hi! I'm **Vibhuti Awasthi**, a passionate data scientist who loves working with data to uncover patterns, build intelligent systems, and solve real-world problems. I specialize in:
 
-💻 Tools: Python, R, SQL, Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, TensorFlow, Hadoop (basics)
+- 📊 Data Analysis & Feature Engineering  
+- 🤖 Machine Learning Algorithms (Regression, Classification, Clustering, etc.)  
+- 🔮 Predictive Modeling & Forecasting  
+- 📈 Time Series Analysis  
+- 🧹 Data Cleaning & Visualization
 
-📂 Featured Projects
-**ATM Cash Replenishment Optimization Model**
-Time Series Forecasting using Auto ARIMA & SARIMAX | Synthetic Data Simulation
+---
 
-**Loan Default Prediction Model**
-Behavioral data-based model using Random Forest, Logistic Regression
+### 🛠️ Tech Stack & Tools
 
-**Job Trends Analysis using ML**
-Job skill extraction, demand prediction from scraped job portal data
+- **Languages**: Python, R, SQL  
+- **ML Libraries**: Scikit-learn, XGBoost, statsmodels, Pmdarima  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Time Series**: SARIMAX, Auto ARIMA  
+- **Other Tools**: Git, Excel, Hadoop (basics), Pandas, NumPy  
 
-🔗 [More projects will be added soon…]
+---
 
-📫 Let's Connect
-💼 www.linkedin.com/in/vibhuti-awasthi
+### 📂 Featured Projects
 
-📬 vibhuti.awasthi@outlook.com
+#### 🏧 ATM Cash Replenishment Optimization
+> Forecasting daily cash demand using Auto ARIMA & SARIMAX with synthetic transaction data.
 
-🌐 Portfolio: Coming Soon
+#### 💸 Loan Default Prediction
+> ML-based model using customer behavioral data to predict the probability of default.
 
+#### 💼 Job Trend Analysis
+> NLP and ML-based analysis of job demand and skill trends from job portal data.
+
+---
+
+### 📜 Certifications
+
+- IBM Certified Data Scientist
+- Advanced ML using Python – (mention platform if any)
+- Time Series Forecasting – (mention platform if any)
+
+---
+
+### 🌐 Connect With Me
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/vibhutiawasthi)
+- ✉️ Email: *your.email@example.com* *(replace with real email)*
+- 📂 Portfolio: Coming soon
+
+---
+
+> _"Data is the new oil, but insight is the spark that ignites it."_  
