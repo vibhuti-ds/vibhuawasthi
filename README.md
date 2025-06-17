@@ -21,10 +21,10 @@ Hi! I'm **Vibhuti Awasthi**, a passionate data scientist who loves working with 
 ### 🛠️ Tech Stack & Tools
 
 - **Languages**: Python, R, SQL  
-- **ML Libraries**: Scikit-learn, XGBoost, statsmodels, Pmdarima  
+- **ML Libraries**: Scikit-learn, XGBoost, statsmodels, Pmdarima ,Tenserflow, Open CV 
 - **Visualization**: Matplotlib, Seaborn, Plotly  
-- **Time Series**: SARIMAX, Auto ARIMA  
-- **Other Tools**: Git, Excel, Hadoop (basics), Pandas, NumPy  
+- **Time Series**: SARIMAX, Auto ARIMA, LSTM  
+- **Other Tools**: Git, Excel, Appache Hadoop , Pandas, NumPy  
 
 ---
 
@@ -44,16 +44,15 @@ Hi! I'm **Vibhuti Awasthi**, a passionate data scientist who loves working with 
 ### 📜 Certifications
 
 - IBM Certified Data Scientist
-- Advanced ML using Python – (mention platform if any)
-- Time Series Forecasting – (mention platform if any)
+- Advanced ML using Python 
+- Time Series Forecasting 
 
 ---
 
 ### 🌐 Connect With Me
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/vibhutiawasthi)
-- ✉️ Email: *your.email@example.com* *(replace with real email)*
-- 📂 Portfolio: Coming soon
+- ✉️ Email: vibhut.awasthi@outlook.com
 
 ---
 
