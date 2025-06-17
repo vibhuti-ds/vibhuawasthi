@@ -52,7 +52,8 @@ Hi! I'm **Vibhuti Awasthi**, a passionate data scientist who loves working with 
 ### 🌐 Connect With Me
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/vibhutiawasthi)
-- ✉️ Email: vibhut.awasthi@outlook.com
+- ✉️ vibhut.awasthi@outlook.com
+- ✉️ vibhuti@iiaiac.com
 
 ---
 
